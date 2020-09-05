@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Время работы Android</string>
+    <string name="stat_activity_name">Статистика</string>
+    <string name="clear">Сброс счетчика</string>
+    <string name="text"></string>
+    <string name="app_select_activity_name">Выбор приложений</string>
+    <string name="tbl_h1">Дата</string>
+    <string name="tbl_h2">Время активности</string>
+    <string name="item_stat">Cтатистика</string>
+    <string name="item_clear">Очистка статистики</string>
+    <string name="image_desc">Icon</string>
+    <string name="app_list">Приложения</string>
+</resources>
